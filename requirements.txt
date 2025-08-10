@@ -1,5 +1,6 @@
-setuptools>=65.0.0
-wheel
+setuptools==65.5.0
+wheel==0.40.0
+
 pip>=23.0
 
 numpy==1.23.5
@@ -28,3 +29,4 @@ tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.3.0
 typing-extensions==4.5.0
 wrapt==1.14.1
+
