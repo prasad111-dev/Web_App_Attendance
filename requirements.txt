@@ -1,0 +1,26 @@
+numpy==1.23.5
+opencv-python==4.7.0.72
+scikit-learn==1.2.2
+tensorflow==2.10.1
+keras-facenet==0.3.2
+flask==2.3.2
+werkzeug==2.3.7
+pillow==9.5.0
+scipy==1.10.1
+h5py==3.8.0
+protobuf==3.19.6  # Changed to version compatible with TensorFlow 2.10.1
+absl-py==1.4.0
+astunparse==1.6.3
+flatbuffers==2.0
+gast==0.4.0
+grpcio==1.51.1
+keras==2.10.0
+keras-preprocessing==1.1.2
+libclang==16.0.0
+opt-einsum==3.3.0
+tensorboard==2.10.1
+tensorflow-estimator==2.10.0
+tensorflow-io-gcs-filesystem==0.31.0
+termcolor==2.3.0
+typing-extensions==4.5.0
+wrapt==1.14.1

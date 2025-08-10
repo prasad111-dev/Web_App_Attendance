@@ -1,0 +1,44 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    box-shadow: 0 0.15rem 1.75rem 0 rgba(33, 40, 50, 0.15);
+}
+
+.card-header {
+    font-weight: 500;
+}
+
+#camera-feed {
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#live-frame {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.table-responsive {
+    overflow-x: auto;
+}
+
+/* DataTables customization */
+.dataTables_wrapper .dataTables_length,
+.dataTables_wrapper .dataTables_filter,
+.dataTables_wrapper .dataTables_info,
+.dataTables_wrapper .dataTables_paginate {
+    padding: 0.5rem 1rem;
+}
+
+/* Login page styles */
+.bg-light {
+    background-color: #f8f9fa !important;
+}
+
+.shadow {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
